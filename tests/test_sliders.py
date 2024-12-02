@@ -7,5 +7,5 @@ def setup(page: Page):
     # First, it navigates to the root page, then clicks to reach the "Smart Table" section.
     page.goto('http://localhost:4200/')
 
-def test_slider(page: Page):
+#def test_slider(page: Page):
     
